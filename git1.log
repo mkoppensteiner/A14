@@ -1,0 +1,22 @@
+commit f78a6be1d99c9cad36636d5da5756de1be122bd4
+Author: mkoppensteiner <mkoppensteiner@student.tgm.ac.at>
+Date:   Thu Dec 17 10:37:43 2015 +0100
+
+    second version
+
+ src/HelloWorld.java | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 7b7f41112c764f5605823883188ba7cf925a97c8
+Author: mkoppensteiner <mkoppensteiner@student.tgm.ac.at>
+Date:   Thu Dec 17 10:37:08 2015 +0100
+
+    first version
+
+ .classpath                           |  6 ++++++
+ .gitignore                           |  1 +
+ .project                             | 17 +++++++++++++++++
+ .settings/org.eclipse.jdt.core.prefs | 11 +++++++++++
+ src/HelloWorld.java                  | 12 ++++++++++++
+ src/main.java                        | 12 ++++++++++++
+ 6 files changed, 59 insertions(+)
